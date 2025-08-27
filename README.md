@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 👨‍💻 All of my projects are available at ERROR!
+- 👨‍💻 All of my projects are available at **ERROR!**
 
 - ⚡ Fun fact *I am funny😅*
 
