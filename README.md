@@ -20,8 +20,8 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/its-shreya3">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  <a href="https://github.com/its-shreya3/YOUR_REPO_NAME/blob/main/make_payment.png" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
 <br><br>
