@@ -5,11 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **AI Projects**
 
 - 👨‍💻 All of my projects are available at **ERROR!**
-
-- ⚡ Fun fact *I am funny😅*
 
 - 📫 How to reach me **dalapatishreya3@gmail.com**
 - <h3 align="left">Connect with me:</h3>
