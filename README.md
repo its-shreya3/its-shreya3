@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Projects**
 
-- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/its-shreya3)
+- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/its-shreya3?tab=repositories)
 
 - 📫 How to reach me **dalapatishreya3@gmail.com**
 - <h3 align="left">Connect with me:</h3>
