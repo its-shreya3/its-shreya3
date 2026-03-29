@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya </h1>
-<h3 align="center">1st Year Computer Science & Engineering Student from India</h3>
+<h3 align="center">1st Year AI/ML Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-shreya3&label=Profile%20views&color=0e75b6&style=flat" alt="its-shreya3" /> </p>
 
