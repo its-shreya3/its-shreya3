@@ -26,12 +26,12 @@
 
 | Project | What it is | Stack | Stars |
 |:---|:---|:---|:---:|
-| [**Naruto — Sage Mode**]() | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
-| [**Zoro — King of Hell**]() | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
-| [**Demon Slayer — Yoriichi & Kokushibo**]() | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**JJK — Sukuna**]() | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**One Piece 3D Website**]() | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
-| [**Impact**]() | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
+| [**DSA-with-Java**]() |DSA-with-Java | `JAVA` | ⭐ 25 |
+| [**My-LeetCode-Journey**]() | My-LeetCode-Journey | `Python` `Java` `C++` | ⭐ 9 |
+| [**study-planner-exam-stress-relief**]() | Study Planner Exam Stress Relief | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**Campus-Course-Records-Manager Public**]() | Campus Course Records Manager Public | `JAVA` `CSS` `JS` | ⭐ 8 |
+| [**Will Update Soon**]() | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
+| [**digital-literacy-project**]() | Digital Literacy Project | `HTML` `CSS` | ⭐ 2 |
 
 <div align="center">
 
