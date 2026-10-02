@@ -48,10 +48,9 @@
 <!-- 💌 LET'S CONNECT -->
 <img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/its-shreya3"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="mailto:dalapatishreya3@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-<a href="https://www.instagram.com/your-instagram-handle"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
-<a href="https://www.threads.net/@your-threads-handle"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
+<a href="https://github.com/its-shreya3" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="https://github.com/its-shreya3?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories"/></a>
+<a href="mailto:dalapatishreya3@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
 
 <br/><br/>
 
