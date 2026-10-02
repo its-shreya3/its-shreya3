@@ -1,1 +1,145 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 600" width="1280" height="600" role="img" aria-label="Developer ID and dashboard"><title>Developer ID and dashboard</title><desc>A swinging holographic ID badge beside a dashboard: repos, stars, forks, followers, most-starred projects, community reach and current focus.</desc><defs><style>@font-face{font-family:'SG';src:url(data:font/woff2;base64,DA... ) format('woff2');}text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}.sg{font-family:'SG','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}.sgm{font-family:'SGM','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}.jb{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}.jbb{font-family:'JBMB',ui-monospace,Menlo,Consolas,monospace;font-weight:700}@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}@keyframes ring{0%{r:4;opacity:.8}100%{r:13;opacity:0}}.fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}.fi{animation:fadeIn .7s ease both}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}.swing{transform-box:view-box;transform-origin:212px -30px;animation:drop 2.6s cubic-bezier(.3,1,.5,1) forwards, sway 6s ease-in-out 2.6s infinite}@keyframes drop{0%{transform:translateY(-640px) rotate(0deg)}22%{transform:translateY(0) rotate(0deg)}42%{transform:rotate(3.4deg)}62%{transform:rotate(-2.2deg)}80%{transform:rotate(1.2deg)}100%{transform:rotate(-1.9deg)}}@keyframes sway{0%,100%{transform:rotate(-1.9deg)}50%{transform:rotate(1.9deg)}}.foil{animation:foil 6s ease-in-out infinite}@keyframes foil{0%{transform:translateX(-320px)}55%,100%{transform:translateX(360px)}}.tile{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}.bar{transform-box:fill-box}</style><linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171a2c"/><stop offset="1" stop-color="#121423"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".5"/></linearGradient><linearGradient id="strapG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#f472b6"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><linearGradient id="idbg" x1="0" y1="0" x2=".6" y2="1"><stop offset="0" stop-color="#1b2140"/><stop offset=".55" stop-color="#141829"/><stop offset="1" stop-color="#191330"/></linearGradient><linearGradient id="foilG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".35" stop-color="#22d3ee" stop-opacity=".16"/><stop offset=".5" stop-color="#fff" stop-opacity=".2"/><stop offset=".65" stop-color="#f472b6" stop-opacity=".16"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient><linearGradient id="ringG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d7dbe6"/><stop offset=".45" stop-color="#8c93a6"/><stop offset=".55" stop-color="#6b7280"/><stop offset="1" stop-color="#4b5563"/></linearGradient><linearGradient id="chipG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#d6a13a"/></linearGradient><linearGradient id="barG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><pattern id="dots4" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r=".8" fill="#fff" fill-opacity=".05"/></pattern><clipPath id="idClip"><rect x="56" y="150" width="312" height="424" rx="22"/></clipPath><clipPath id="photoClip"><rect x="144" y="204" width="136" height="168" rx="16"/></clipPath><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".55"/></filter></defs><rect width="1280" height="600" rx="24" fill="url(#cardbg)"/><rect width="1280" height="600" rx="24" fill="url(#dots4)"/><rect x=".75" y=".75" width="1278.5" height="598.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/><g class="fu" style="animation-delay:.15s"><text class="jbb" x="420" y="54" font-size="12.5" fill="#a78bfa" letter-spacing="2.2">// DEVELOPER DASHBOARD</text><text class="sg" x="420" y="94" font-size="29" fill="#eceef6" letter-spacing="-.5">Profile at a glance</text><g transform="translate(1090,70)"><rect x="0" y="-18" width="150" height="28" rx="14" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".4"/><circle cx="16" cy="-4" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle><text class="jbb" x="28" y="0" font-size="10" fill="#34d399" letter-spacing="1.2">LIVE • GITHUB</text></g></g><g class="tile" style="animation-delay:0.7s"><rect x="420.0" y="126" width="194" height="96" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/><g transform="translate(584.5,156)" color="#22d3ee"><path d="M-22 -6h16v12h-16z" fill="currentColor" fill-opacity=".15"/><text class="jb" x="-14" y="8" font-size="22" fill="#22d3ee">14k</text></g><text class="jbb" x="442" y="170" font-size="11" fill="#8d93ab" letter-spacing="1.6">REPOS</text><text class="sg" x="442" y="202" font-size="34" fill="#eceef6">142</text></g><g class="tile" style="animation-delay:1.1s"><rect x="420" y="240" width="462" height="306" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/><text class="jbb" x="442" y="272" font-size="11" fill="#8d93ab" letter-spacing="1.6">MOST-STARRED PROJECTS</text><text class="jb" x="442" y="311" font-size="12" fill="#8d93ab">Naruto — Sage Mode</text><rect x="592" y="300" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/><rect x="592" y="300" width="132" height="14" rx="7" fill="url(#barG)"/><text class="jb" x="442" y="348" font-size="12" fill="#8d93ab">Zoro — King of Hell</text><rect x="592" y="337" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/><rect x="592" y="337" width="118" height="14" rx="7" fill="url(#barG)"/><text class="jb" x="442" y="385" font-size="12" fill="#8d93ab">Demon Slayer — Yoriichi &amp; Kokushibo</text><rect x="592" y="374" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/><rect x="592" y="374" width="103" height="14" rx="7" fill="url(#barG)"/><text class="jb" x="442" y="422" font-size="12" fill="#8d93ab">JJK — Sukuna</text><rect x="592" y="411" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/><rect x="592" y="411" width="95" height="14" rx="7" fill="url(#barG)"/><text class="jb" x="442" y="494" font-size="10" fill="#8d93ab" opacity=".75">stars per repository • anime web builds</text></g><g class="tile" style="animation-delay:1.25s"><rect x="914" y="240" width="304" height="146" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/><g transform="translate(936,268) scale(.72)" style="color:#f472b6"><path fill="#f472b6" d="M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.33-1.3877 2.1228-.3084.7626-.5032 1.6345-.5634 2.911l0 0c0 0-.0264.3383-.0264.3383l1.8175.0033c.0026.0434.0098.0873.0159.1306.0294.2094.1026.414.1873.6078.0869.1991.1792.389.3187.5633.0967.1211.1924.242.2988.3531.15.156.3215.2905.5056.4157.1929.1304.3955.2496.6131.3503.1302.0603.2746.1119.4155.1554.1837.0566.3821.0904.58.1178.1928.0262.3746.0612.552.0997.1459.0313.299.0693.4432.104.236.0566.4678.1081.7029.1479.1487.025.2985.0497.4523.0698.5046.0662 1.0344.0739 1.5399.0747.1187.0002.2459.0004.3805.0004h.66c1.2759-.0023 2.5582-.1 3.7017-.2848.0214-.0035.0394-.0167.0038-.0222-.3242-.052.1589-.1474.0293-.157.0696-.0037.1391-.0127.194-.0262.0746-.0184.1128-.0525.1099-.0872-.0038-.2132.0539-.4093.4088-.6609.1241-.0879.1669-.1614.18-.2214.0088-.0404-.0023-.0827-.0423-.1127-.0594-.0444-.1415-.0649-.2461-.0771-.0714-.0083-.148-.0145-.228-.02-.2595-.0177-.5355-.0092-.8247.0244-.267.0312-.5206.0823-.7515.1526-.1207.0368-.2691.0939-.3598.165-.0896.0715-.1434.2168-.1649.3517-.0139.0876-.0127.2015.005.3021.013.0776.0345.1512.0725.2149.056.0947.1369.1735.2429.2325.0477.0265.1031.0439.1697.055.0839.0138.1769.0184.2774.0065.1094-.0128.2007-.0399.2717-.1239.1047-.123.1198-.3148.0527-.4855-.0547-.1385-.1177-.2661-.1899-.3884-.1775-.3005-.38-.5149-.973-.6486-.1539-.0348-.3329-.0568-.5234-.0584-.9751-.0097-2.13.03-3.1049.2692-.418.1032-.9.277-.953.6164-.0019.0127-.0072.0306-.0369.0368-.1186.0245-.2187.1958-.023.2336.2146.0416.2605.0269.2922.045.0804.046.1335.1314.1452.2451.0058.056.0025.1155-.0387.1642-.0531.0633-.1376.1266-.2269.1727-.1231.0638-.ested" /></g><text class="jbb" x="962" y="274" font-size="11" fill="#8d93ab" letter-spacing="1.6">COMMUNITY</text><text class="sg" x="936" y="322" font-size="30" fill="#eceef6">4.7K</text><text class="jb" x="936" y="342" font-size="10.5" fill="#8d93ab" letter-spacing="1.3">IG FOLLOWERS</text><text class="sg" x="1074" y="322" font-size="30" fill="#eceef6">2.7M</text><text class="jb" x="1074" y="342" font-size="10.5" fill="#8d93ab" letter-spacing="1.3">VIEWS / 30 DAYS</text><text class="jb" x="936" y="368" font-size="10" fill="#8d93ab" opacity=".8">@its-shreya3</text></g><g class="tile" style="animation-delay:1.4s"><rect x="914" y="400" width="304" height="146" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/><circle cx="938" cy="438" r="3.5" fill="#22d3ee"/><text class="jbb" x="952" y="442" font-size="10.5" fill="#8d93ab" letter-spacing="1.3">CURRENT FOCUS</text><text class="sg" x="936" y="480" font-size="22" fill="#eceef6">Frontend &amp; motion</text><text class="jb" x="936" y="504" font-size="10" fill="#8d93ab" opacity=".8">design systems • product UI</text></g><g class="swing"><path d="M192 -40 L232 -40 L229 104 L195 104 Z" fill="url(#strapG)"/><text class="jbb" font-size="9" fill="#fff" fill-opacity=".85" letter-spacing="2.4" transform="translate(216,-30) rotate(90)">SHREYA.DEV • SOFTWARE • SHREYA.DEV • SOFTWARE</text><rect x="186" y="102" width="52" height="24" rx="6" fill="url(#metal)"/><rect x="200" y="108" width="24" height="7" rx="3.5" fill="#39405020"/><circle cx="212" cy="140" r="13" fill="none" stroke="url(#metal)" stroke-width="5"/><g filter="url(#shadow)"><rect x="56" y="150" width="312" height="424" rx="22" fill="url(#idbg)" stroke="url(#ringG)" stroke-opacity=".55" stroke-width="1.5"/></g><g clip-path="url(#idClip)"><rect x="56" y="150" width="312" height="424" fill="url(#dots4)"/><rect x="56" y="150" width="312" height="34" fill="#ffffff" fill-opacity=".04"/><text class="jbb" x="76" y="172" font-size="10.5" fill="#22d3ee" letter-spacing="2">DEVELOPER ID</text><text class="jb" x="348" y="172" font-size="10.5" fill="#8d93ab" text-anchor="end" letter-spacing="1.4">v2.0</text><rect id="pframe" x="140" y="200" width="144" height="176" rx="20" fill="none" stroke="url(#ringG)" stroke-opacity=".75" stroke-width="2"/><path id="ppath" d="M140 220v136a20 20 0 0 0 20 20h104a20 20 0 0 0 20-20V70a20 20 0 0 0-20-20H160a20 20 0 0 0-20 20z" fill="none"/><circle r="3.4" fill="#fff"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#ppath"/></animateMotion></circle><g clip-path="url(#photoClip)"><image x="144" y="204" width="136" height="168" href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAQDAwMDAgQDAwMEBAQFBgoGBgUFBgwICQcKDgwPDg4MDQ0PERYT..."/></g><rect x="80" y="212" width="34" height="26" rx="5" fill="url(#chipG)"/><path d="M80 221h34M97 212v26" stroke="#8a6a1e" stroke-width="1" stroke-opacity=".6"/><g stroke="#34d399" stroke-width="1.6" fill="none" opacity=".9" transform="translate(310,226)"><path d="M0-8a11 11 0 0 1 0 16"/><path d="M-5-5a6.5 6.5 0 0 1 0 10"/><circle cx="-9" cy="0" r="1.6" fill="#34d399" stroke="none"/></g><text class="sg" x="212.0" y="412" font-size="25" fill="#eceef6" text-anchor="middle">Shreya Dalapati</text><text class="jb" x="212.0" y="434" font-size="12" fill="#a78bfa" text-anchor="middle" letter-spacing="1.6">SOFTWARE DEVELOPER</text><line x1="82" y1="450" x2="342" y2="450" stroke="#262a42"/><text class="jb" x="82" y="462" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">BASE</text><text class="sgm" x="82" y="478" font-size="13" fill="#eceef6">Kolkata, IN</text><text class="jb" x="206" y="462" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">GITHUB</text><text class="sgm" x="206" y="478" font-size="13" fill="#eceef6">its-shreya3</text><text class="jb" x="344" y="564" font-size="9.5" fill="#8d93ab" text-anchor="end">@its-shreya3</text><g class="foil"><rect x="-64" y="150" width="120" height="424" fill="url(#foilG)" transform="skewX(-14)"/></g></g><g transform="translate(82,560)"><circle r="4" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle><text class="jb" x="12" y="4" font-size="10" fill="#34d399" letter-spacing="1.2">OPEN TO COLLAB</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 600" width="1280" height="600" role="img" aria-label="Developer dashboard for Shreya Dalapati">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1a1f35"/>
+      <stop offset="100%" stop-color="#121728"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="13" cy="13" r="1" fill="#ffffff" opacity="0.06"/>
+    </pattern>
+    <clipPath id="photoClip">
+      <rect x="80" y="128" width="176" height="210" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="600" fill="url(#bg)"/>
+  <rect width="1280" height="600" fill="url(#dots)"/>
+
+  <g opacity="0.65">
+    <circle cx="140" cy="110" r="120" fill="#22d3ee" opacity="0.14"/>
+    <circle cx="1170" cy="80" r="150" fill="#a78bfa" opacity="0.12"/>
+    <circle cx="1080" cy="530" r="180" fill="#f472b6" opacity="0.10"/>
+  </g>
+
+  <!-- Header -->
+  <g>
+    <text x="420" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#a78bfa" font-weight="700">// DEVELOPER DASHBOARD</text>
+    <text x="420" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f8fafc" font-weight="700">Profile at a glance</text>
+    <g transform="translate(1090 65)">
+      <rect x="0" y="-16" width="162" height="28" rx="14" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-opacity="0.5"/>
+      <circle cx="18" cy="-2" r="4" fill="#34d399"/>
+      <text x="31" y="2" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#34d399" font-weight="700" letter-spacing="1.4">LIVE • GITHUB</text>
+    </g>
+  </g>
+
+  <!-- Stats cards -->
+  <g>
+    <rect x="420" y="126" width="190" height="95" rx="18" fill="#ffffff" fill-opacity="0.03" stroke="#2a314d"/>
+    <text x="442" y="164" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#8d93ab" font-weight="700">REPOS</text>
+    <text x="442" y="201" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#f8fafc" font-weight="700">142</text>
+    <g transform="translate(552 156)">
+      <rect x="0" y="0" width="28" height="18" rx="8" fill="#22d3ee" opacity="0.12"/>
+      <text x="14" y="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#22d3ee" font-weight="700">14k</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="420" y="240" width="470" height="310" rx="18" fill="#ffffff" fill-opacity="0.03" stroke="#2a314d"/>
+    <text x="442" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#8d93ab" font-weight="700">MOST-STARRED PROJECTS</text>
+
+    <g>
+      <text x="442" y="312" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Naruto — Sage Mode</text>
+      <rect x="590" y="300" width="220" height="14" rx="7" fill="#ffffff" fill-opacity="0.04"/>
+      <rect x="590" y="300" width="138" height="14" rx="7" fill="url(#bar)"/>
+
+      <text x="442" y="351" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Zoro — King of Hell</text>
+      <rect x="590" y="339" width="220" height="14" rx="7" fill="#ffffff" fill-opacity="0.04"/>
+      <rect x="590" y="339" width="122" height="14" rx="7" fill="url(#bar)"/>
+
+      <text x="442" y="390" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Demon Slayer — Yoriichi &amp; Kokushibo</text>
+      <rect x="590" y="378" width="220" height="14" rx="7" fill="#ffffff" fill-opacity="0.04"/>
+      <rect x="590" y="378" width="108" height="14" rx="7" fill="url(#bar)"/>
+
+      <text x="442" y="429" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">JJK — Sukuna</text>
+      <rect x="590" y="417" width="220" height="14" rx="7" fill="#ffffff" fill-opacity="0.04"/>
+      <rect x="590" y="417" width="100" height="14" rx="7" fill="url(#bar)"/>
+    </g>
+
+    <text x="442" y="500" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8d93ab" opacity="0.8">anime web builds • motion-driven portfolio work</text>
+  </g>
+
+  <!-- Community card -->
+  <g>
+    <rect x="914" y="240" width="300" height="146" rx="18" fill="#ffffff" fill-opacity="0.03" stroke="#2a314d"/>
+    <text x="936" y="274" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#8d93ab" font-weight="700">COMMUNITY</text>
+    <text x="936" y="322" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f8fafc" font-weight="700">4.7K</text>
+    <text x="936" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" letter-spacing="1.2" fill="#8d93ab">IG FOLLOWERS</text>
+    <text x="1078" y="322" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f8fafc" font-weight="700">2.7M</text>
+    <text x="1078" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" letter-spacing="1.1" fill="#8d93ab">VIEWS / 30 DAYS</text>
+    <text x="936" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8d93ab" opacity="0.8">@its-shreya3</text>
+  </g>
+
+  <!-- Focus card -->
+  <g>
+    <rect x="914" y="400" width="300" height="150" rx="18" fill="#ffffff" fill-opacity="0.03" stroke="#2a314d"/>
+    <circle cx="938" cy="438" r="4" fill="#22d3ee"/>
+    <text x="952" y="442" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" letter-spacing="1.5" fill="#8d93ab" font-weight="700">CURRENT FOCUS</text>
+    <text x="936" y="480" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#f8fafc" font-weight="700">Frontend &amp; motion</text>
+    <text x="936" y="507" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8d93ab">design systems • product UI</text>
+  </g>
+
+  <!-- Identity card -->
+  <g filter="url(#shadow)">
+    <rect x="72" y="182" width="300" height="360" rx="24" fill="url(#card)" stroke="url(#accent)" stroke-opacity="0.5"/>
+    <rect x="72" y="182" width="300" height="32" fill="#ffffff" fill-opacity="0.03"/>
+    <text x="95" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" letter-spacing="2.2" fill="#22d3ee" font-weight="700">DEVELOPER ID</text>
+    <text x="346" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#8d93ab" text-anchor="end" font-weight="700">v2.0</text>
+
+    <g>
+      <rect x="92" y="228" width="260" height="210" rx="22" fill="#ffffff" fill-opacity="0.02" stroke="#2a314d"/>
+      <rect x="114" y="250" width="116" height="150" rx="18" fill="#111827"/>
+      <rect x="188" y="250" width="126" height="150" rx="18" fill="#ffffff" fill-opacity="0.02"/>
+
+      <!-- Small avatar block -->
+      <g clip-path="url(#photoClip)">
+        <rect x="114" y="250" width="116" height="150" fill="#0f172a"/>
+        <circle cx="172" cy="282" r="28" fill="#a78bfa" opacity="0.95"/>
+        <path d="M136 386c18-22 38-34 60-34s42 12 60 34v14H136v-14Z" fill="#22d3ee" opacity="0.9"/>
+        <circle cx="172" cy="284" r="16" fill="#f8fafc" opacity="0.9"/>
+      </g>
+
+      <text x="194" y="286" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#f8fafc" font-weight="700">Shreya</text>
+      <text x="194" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#8d93ab" letter-spacing="1.7">DALAPATI</text>
+      <text x="194" y="338" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a78bfa" letter-spacing="1.3">SOFTWARE</text>
+      <text x="194" y="356" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a78bfa" letter-spacing="1.3">DEVELOPER</text>
+      <rect x="190" y="372" width="108" height="1.5" fill="url(#accent)"/>
+      <text x="194" y="394" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8d93ab">Kolkata, IN</text>
+      <text x="194" y="410" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8d93ab">its-shreya3</text>
+    </g>
+
+    <g transform="translate(90 458)">
+      <circle cx="0" cy="0" r="4" fill="#34d399"/>
+      <text x="12" y="4" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#34d399" font-weight="700" letter-spacing="1.4">OPEN TO COLLAB</text>
+    </g>
+  </g>
+
+  <g transform="translate(164 522)">
+    <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a78bfa" font-weight="700" letter-spacing="2">SHREYA.DEV</text>
+  </g>
+</svg>
