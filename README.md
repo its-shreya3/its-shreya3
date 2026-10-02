@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Shreya Dalapati — Software Developer" width="100%"/>
+<img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal — Frontend Developer" width="100%"/>
 
 <br/><br/>
 
