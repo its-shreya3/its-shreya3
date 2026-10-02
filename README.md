@@ -1,42 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shreya </h1>
-<h3 align="center">2nd Year AI/ML Student </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-shreya3&label=Profile%20views&color=0e75b6&style=flat" alt="its-shreya3" /> </p>
+<!-- 🎬 HERO — video intro + name -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Shreya Dalapati — Software Developer" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/><br/>
 
-- 🔭 I’m currently working on **AI Projects**
+<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
+<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
 
-- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/its-shreya3?tab=repositories)
+<br/><br/>
 
-- 📫 How to reach me **dalapatishreya3@gmail.com**
-- <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its_dip07" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_dip07" height="30" width="40" />
-</a>
+<!-- ⚛️ TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
 
-<a href="https://fb.com/https://www.facebook.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
+<br/><br/>
 
-<a href="https://www.linkedin.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
 
-<a href="https://leetcode.com/u/shreya_official/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="shreya_official" height="30" width="40" />
-</a>
-</p>
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/><br/>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://github.com/its-shreya3/YOUR_REPO_NAME/blob/main/make_payment.png" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-<br><br>
+</div>
+
+## 🎌 Featured builds
+
+| Project | What it is | Stack | Stars |
+|:---|:---|:---|:---:|
+| [**Naruto — Sage Mode**](https://github.com/Meghamittal0920/Naruto-SageMode) | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
+| [**Zoro — King of Hell**](https://github.com/Meghamittal0920/Zoro-King-of-hell) | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
+| [**Demon Slayer — Yoriichi & Kokushibo**](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**JJK — Sukuna**](https://github.com/Meghamittal0920/JJK-Sakuna) | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**One Piece 3D Website**](https://github.com/Meghamittal0920/One-Piece-3D-Website) | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
+| [**Impact**](https://github.com/Meghamittal0920/Imapact) | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
+
+<div align="center">
+
+<br/>
+
+## 🌃 My contribution city
+
+*Every commit builds another tower — rebuilt automatically every day.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/><br/>
+
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
+<a href="https://www.threads.net/@meghamittal92000"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Always learning, always building.** 💜
+
+</div>
